@@ -3,12 +3,8 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "ALKL5C5664.com.samsonika.helen-marlen.beta",
-				"paths": [ "*"]
-			},
-			{
 				"appID": "68D4DYKYH3.com.samsonika.helen-marlen.beta",
-				"paths": [ "*"]
+				"paths": [ "/faq/*", "/contact-us/*"]
 			}
 		]
 	}
