@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "68D4DYKYH3.com.samsonika.helen-marlen.beta",
-				"paths": [ "/faq/*", "/contact-us/*", "/bridge/redirect/appstore"]
+				"paths": [ "NOT /e/*","*","/"]
 			}
 		]
 	}
