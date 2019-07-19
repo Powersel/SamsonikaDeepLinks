@@ -1,11 +1,38 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "68D4DYKYH3.com.samsonika.helen-marlen.beta",
-				"paths": [ "NOT /e/*","*","/"]
-			}
-		]
-	}
+    “webcredentials”: {
+        “apps”: [“KFURPFJ8QD.com.modnakasta.iphone”]
+    },
+
+ “activitycontinuation”: {
+   “apps”: [“KFURPFJ8QD.com.modnakasta.iphone”]
+ },
+
+ “applinks”: {
+   “apps”: [],
+   “details”: [{
+    “appID”: “KFURPFJ8QD.com.modnakasta.iphone”,
+    “paths”: [“/”,
+        “NOT /product/report-cheaper/*“,
+        “/product/*“,
+        “/campaign/*“,
+        “/me/“,
+        “/me/orders/*“,
+        “/me/wishlist/“,
+       “/me/email-change-confirm/*“,
+        “/user/password/change”,
+        “/info/*“,
+        “/basket/“,
+        “/market/*“,
+        “/modnakarta/“,
+        “/black/“,
+        “/f/*“,
+        “/ga-debug/“,
+        “/search”,
+       “/r”,
+        “/m/*“,
+        “/brands”,
+        “/brand/*“,
+       “/offer/*“]
+  }]
+ }
 }
