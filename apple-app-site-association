@@ -1,38 +1,44 @@
 {
-    “webcredentials”: {
-        “apps”: [“KFURPFJ8QD.com.modnakasta.iphone”]
+    "webcredentials": {
+        "apps": [
+            "KFURPFJ8QD.com.modnakasta.iphone"
+        ]
     },
-
- “activitycontinuation”: {
-   “apps”: [“KFURPFJ8QD.com.modnakasta.iphone”]
- },
-
- “applinks”: {
-   “apps”: [],
-   “details”: [{
-    “appID”: “KFURPFJ8QD.com.modnakasta.iphone”,
-    “paths”: [“/”,
-        “NOT /product/report-cheaper/*“,
-        “/product/*“,
-        “/campaign/*“,
-        “/me/“,
-        “/me/orders/*“,
-        “/me/wishlist/“,
-       “/me/email-change-confirm/*“,
-        “/user/password/change”,
-        “/info/*“,
-        “/basket/“,
-        “/market/*“,
-        “/modnakarta/“,
-        “/black/“,
-        “/f/*“,
-        “/ga-debug/“,
-        “/search”,
-       “/r”,
-        “/m/*“,
-        “/brands”,
-        “/brand/*“,
-       “/offer/*“]
-  }]
- }
+    "activitycontinuation": {
+        "apps": [
+            "KFURPFJ8QD.com.modnakasta.iphone"
+        ]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "KFURPFJ8QD.com.modnakasta.iphone",
+                "paths": [
+                    "/",
+                    "NOT /product/report-cheaper/*",
+                    "/product/*",
+                    "/campaign/*",
+                    "/me/",
+                    "/me/orders/*",
+                    "/me/wishlist/",
+                    "/me/email-change-confirm/*",
+                    "/user/password/change",
+                    "/info/*",
+                    "/basket/",
+                    "/market/*",
+                    "/modnakarta/",
+                    "/black/",
+                    "/f/*",
+                    "/ga-debug/",
+                    "/search",
+                    "/r",
+                    "/m/*",
+                    "/brands",
+                    "/brand/*",
+                    "/offer/*"
+                ]
+            }
+        ]
+    }
 }
